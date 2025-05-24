@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/7a/4e/5d/7a4e5d8e29456096abe944dc23266dcd.jpg" alt="Banner" width="100%" style="max-height: "100px"; object-fit: cover;">
+  <img src="https://i.pinimg.com/736x/62/64/62/626462a2a802bb68a7135cc605816ea3.jpg" alt="Banner" width="100%" style="max-height: "100px"; object-fit: cover;">
 </p>
 
 <p>
