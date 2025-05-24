@@ -1,4 +1,9 @@
 <h1>Passionate About Web Development & Cybersecurity</h1>
+
+<p align="center">
+  <img src="https://www.pinterest.com/pin/4855512092654302/" alt="Banner" width="100%" style="max-height: 300px; object-fit: cover;">
+</p>
+
 <p>
   I'm a Computer Science and Information Technology student at Ain Shams University with a strong interest in full-stack web development, cybersecurity (especially red teaming and network security), and competitive programming. I enjoy building PHP-based projects, deploying them using Git and web hosting platforms, and exploring frameworks like Laravel. I also work on advanced topics like image segmentation and encryption algorithms in C#. I'm actively learning through online courses and hands-on projects, constantly improving my coding and problem-solving skills.
 </p>
@@ -43,9 +48,8 @@
 
 <h2>✒️ Recent Posts</h2>
 <ul>
-  <li><a href="https://yourblog.com/post1" target="_blank">🔐 Exploring Red Teaming Techniques</a></li>
-  <li><a href="https://yourblog.com/post2" target="_blank">💻 Building a Full-Stack Laravel Project</a></li>
-  <li><a href="https://yourblog.com/post3" target="_blank">🖼️ Image Segmentation using Graph Algorithms in C#</a></li>
+  <li><a href="https://github.com/SWESiham/Blog-Project">💻 Building a Full-Stack Laravel Project</a></li>
+  <li><a href="https://github.com/SWESiham/Image_Segmentation_AlgorithmProject" target="_blank">🖼️ Image Segmentation using Graph Algorithms in C#</a></li>
 </ul>
 
 <h2>⚡️ Where to find me</h2>
