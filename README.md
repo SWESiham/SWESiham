@@ -1,9 +1,6 @@
-<h1>Passionate About Web Development & Cybersecurity</h1>
-
 <p align="center">
   <img src="https://i.pinimg.com/736x/d1/12/e0/d112e02a671526a610dd26097b75e495.jpg" alt="Banner" width="100%" style="max-height: 300px; object-fit: cover;">
 </p>
-
 
 <p>
   I'm a Computer Science and Information Technology student at Ain Shams University with a strong interest in full-stack web development, cybersecurity (especially red teaming and network security), and competitive programming. I enjoy building PHP-based projects, deploying them using Git and web hosting platforms, and exploring frameworks like Laravel. I also work on advanced topics like image segmentation and encryption algorithms in C#. I'm actively learning through online courses and hands-on projects, constantly improving my coding and problem-solving skills.
