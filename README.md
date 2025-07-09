@@ -6,14 +6,7 @@
 
 <!-- Introduction -->
 <p>
-  🎓 I'm a <strong>Computer Science and Information Technology</strong> student at <strong>Ain Shams University</strong> with a passion for:
-  <ul>
-    <li>💻 Full-stack web development (PHP, Laravel, Node.js)</li>
-    <li>🔐 Cybersecurity (Red Teaming, Network Security)</li>
-    <li>🏆 Competitive programming (Codeforces, LeetCode)</li>
-    <li>🧠 Algorithms (Image Segmentation, Encryption in C#)</li>
-  </ul>
-  I enjoy building real-world projects, learning from hands-on experience, and continuously improving my coding & problem-solving skills.
+  🎓 I'm a Computer Science and Information Technology student at Ain Shams University with a strong interest in full-stack web development, cybersecurity (especially red teaming), and competitive programming.
 </p>
 
 <!-- Currently Learning -->
