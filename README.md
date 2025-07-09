@@ -1,5 +1,5 @@
   <img src="https://i.pinimg.com/1200x/55/86/60/558660302daae81b862b49bbaa890630.jpg" alt="Banner" width="100%" style="max-height: "100px"; object-fit: cover;">
-</p>
+
 
 <p>
   I'm a Computer Science and Information Technology student at Ain Shams University with a strong interest in full-stack web development, cybersecurity (especially red teaming and network security), and competitive programming. I enjoy building PHP-based projects, deploying them using Git and web hosting platforms, and exploring frameworks like Laravel. I also work on advanced topics like image segmentation and encryption algorithms in C#. I'm actively learning through online courses and hands-on projects, constantly improving my coding and problem-solving skills.
