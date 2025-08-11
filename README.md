@@ -3,6 +3,9 @@
      alt="Banner" 
      width="100%" 
      style="max-height: 100px; object-fit: cover;" />
+     
+<!-- Profile Views -->
+![Profile views](https://komarev.com/ghpvc/?username=SWESiham&color=blue)
 
 <!-- Introduction -->
 <p>
@@ -80,3 +83,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SWESiham&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
