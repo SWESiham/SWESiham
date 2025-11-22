@@ -1,9 +1,9 @@
 <!-- Banner -->
-<img src="https://i.pinimg.com/1200x/55/86/60/558660302daae81b862b49bbaa890630.jpg" 
+<!-- <img src="https://i.pinimg.com/1200x/55/86/60/558660302daae81b862b49bbaa890630.jpg" 
      alt="Banner" 
      width="100%" 
      style="max-height: 100px; object-fit: cover;" />
-     
+      -->
 <!-- Profile Views -->
 ![Profile views](https://komarev.com/ghpvc/?username=SWESiham&color=blue)
 
@@ -17,10 +17,12 @@
 <p>
   I'm currently enhancing my skills through the following tracks and training programs:
   <ul>
-    <li>🛡 Mahara Tech – OWASP Top 10 Security Essentials</li>
-    <li>🎯 Red Teaming and Ethical Hacking – Udemy</li>
-    <li>⚡ Sprint Cybersecurity Track</li>
-    <li>🌐 Angular ITI Track</li>
+    <!-- <li>🛡 Mahara Tech – OWASP Top 10 Security Essentials</li> -->
+    <li>Red Teaming and Ethical Hacking – Udemy</li>
+    <li>OSCP</li>
+    <li>EJPT</li>
+    <!-- <li>⚡ Sprint Cybersecurity Track</li>
+    <li>🌐 Angular ITI Track</li> -->
   </ul>
 </p>
 
