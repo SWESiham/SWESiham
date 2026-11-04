@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Siham Said</h1>
-<h3>Full-Stack Software Engineer | MEAN Stack Developer</h3>
+<h3>Full-Stack Software Engineer | MERN Stack Developer</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/sihamsaid/">LinkedIn</a> •
